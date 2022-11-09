@@ -5,7 +5,8 @@
 </p>
 <p align="center">
   <a href="https://github.com/jyygithub/leetcode" target="_blank">
-    <img width="128" src="https://img.shields.io/badge/language-Kotlin-%23A97BFF" alt="logo">
+    <img src="https://img.shields.io/badge/language-Kotlin-%23A97BFF" alt="language">
+    <img src="https://img.shields.io/github/license/jyygithub/leetcode" alt="license">
   </a>
 </p>
 <h2 align="center">
