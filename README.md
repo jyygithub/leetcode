@@ -19,4 +19,5 @@
 
 ## 题库列表
 
-- [0001.two-sum](https://github.com/jyygithub/leetcode/blob/main/problems/two-sum.md)
+- [0001.Two Sum](https://github.com/jyygithub/leetcode/blob/main/problems/two-sum.md)
+- [0002.Add Two Numbers](https://github.com/jyygithub/leetcode/blob/main/problems/add-two-numbers.md)
