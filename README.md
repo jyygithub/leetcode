@@ -25,3 +25,4 @@
 - [0004.Median of Two Sorted Arrays](https://github.com/jyygithub/leetcode/blob/main/problems/0004.median-of-two-sorted-arrays.md)
 - [0005.Longest Palindromic Substring](https://github.com/jyygithub/leetcode/blob/main/problems/0005.longest-palindromic-substring.md)
 - [0006.Zigzag Conversion](https://github.com/jyygithub/leetcode/blob/main/problems/0006.zigzag-conversion.md)
+- [0007.Reverse Integer](https://github.com/jyygithub/leetcode/blob/main/problems/0007.reverse-integer.md)
