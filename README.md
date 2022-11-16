@@ -26,3 +26,4 @@
 - [0005.Longest Palindromic Substring](https://github.com/jyygithub/leetcode/blob/main/problems/0005.longest-palindromic-substring.md)
 - [0006.Zigzag Conversion](https://github.com/jyygithub/leetcode/blob/main/problems/0006.zigzag-conversion.md)
 - [0007.Reverse Integer](https://github.com/jyygithub/leetcode/blob/main/problems/0007.reverse-integer.md)
+- [0007.String to Integer (atoi)](https://github.com/jyygithub/leetcode/blob/main/problems/0008.string-to-integer-atoi.md)
