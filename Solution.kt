@@ -1,15 +1,15 @@
 fun main() {
-    print(isPalindrome(Int.MAX_VALUE))
+    print(maxArea(intArrayOf(1, 8, 6, 2, 5, 4, 8, 3, 7)))
 }
 
-fun isPalindrome(x: Int): Boolean {
-    if (x == 0) return true
-    if (x < 0 || x % 10 == 0) return false
-    var temp = x
-    var reversed = 0
-    while (temp > reversed) {
-        reversed = reversed * 10 + temp % 10
-        temp /= 10
+fun maxArea(height: IntArray): Int {
+    var area = 0
+    var start = 0
+    var end = height.size - 1
+    while (start < end) {
+        area = kotlin.math.max(kotlin.math.min(height[start], height[end]) * (end - start), area)
+        if (height[start] > height[end]) end--
+        else start++
     }
-    return temp == reversed || temp == reversed / 10
+    return area
 }
