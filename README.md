@@ -33,3 +33,5 @@
 - [0012.Integer to Roman](https://github.com/jyygithub/leetcode/blob/main/problems/0012.integer-to-roman.md)
 - [0013.Roman to Integer](https://github.com/jyygithub/leetcode/blob/main/problems/0013.roman-to-integer.md)
 - [0014.Longest Common Prefix](https://github.com/jyygithub/leetcode/blob/main/problems/0014.longest-common-prefix.md)
+- [0015.3Sum](https://github.com/jyygithub/leetcode/blob/main/problems/0015.3sum.md)
+- [0020.Valid Parentheses](https://github.com/jyygithub/leetcode/blob/main/problems/0020.valid-parentheses.md)
