@@ -36,3 +36,4 @@
 - [0015.3Sum](https://github.com/jyygithub/leetcode/blob/main/problems/0015.3sum.md)
 - [0020.Valid Parentheses](https://github.com/jyygithub/leetcode/blob/main/problems/0020.valid-parentheses.md)
 - [0021.Merge Two Sorted Lists](https://github.com/jyygithub/leetcode/blob/main/problems/0021.merge-two-sorted-lists.md)
+- [0026.Remove Duplicates from Sorted Array](https://github.com/jyygithub/leetcode/blob/main/problems/0026.remove-duplicates-from-sorted-array.md)
