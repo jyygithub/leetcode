@@ -40,5 +40,6 @@
 - [0019.Remove Nth Node From End of List](https://github.com/jyygithub/leetcode/blob/main/problems/0019.remove-nth-node-from-end-of-list.md)
 - [0020.Valid Parentheses](https://github.com/jyygithub/leetcode/blob/main/problems/0020.valid-parentheses.md)
 - [0021.Merge Two Sorted Lists](https://github.com/jyygithub/leetcode/blob/main/problems/0021.merge-two-sorted-lists.md)
+- [0022.Generate Parentheses](https://github.com/jyygithub/leetcode/blob/main/problems/0022.generate-parentheses.md)
 - [0026.Remove Duplicates from Sorted Array](https://github.com/jyygithub/leetcode/blob/main/problems/0026.remove-duplicates-from-sorted-array.md)
 - [0027.Remove Element](https://github.com/jyygithub/leetcode/blob/main/problems/0027.remove-element.md)
