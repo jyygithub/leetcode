@@ -45,3 +45,4 @@
 - [0027.Remove Element](https://github.com/jyygithub/leetcode/blob/main/problems/0027.remove-element.md)
 - [0028.Find the Index of the First Occurrence in a String](https://github.com/jyygithub/leetcode/blob/main/problems/0028.find-the-index-of-the-first-occurrence-in-a-string.md)
 - [0029.Divide Two Integers](https://github.com/jyygithub/leetcode/blob/main/problems/0029.divide-two-integers.md)
+- [0035.Search Insert Position](https://github.com/jyygithub/leetcode/blob/main/problems/0035.search-insert-position.md)
