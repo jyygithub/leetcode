@@ -45,5 +45,6 @@
 - [0027.Remove Element](https://github.com/jyygithub/leetcode/blob/main/problems/0027.remove-element.md)
 - [0028.Find the Index of the First Occurrence in a String](https://github.com/jyygithub/leetcode/blob/main/problems/0028.find-the-index-of-the-first-occurrence-in-a-string.md)
 - [0029.Divide Two Integers](https://github.com/jyygithub/leetcode/blob/main/problems/0029.divide-two-integers.md)
+- [0031.Next Permutation](https://github.com/jyygithub/leetcode/blob/main/problems/0031.next-permutation.md)
 - [0035.Search Insert Position](https://github.com/jyygithub/leetcode/blob/main/problems/0035.search-insert-position.md)
 - [0036.Valid Sudoku](https://github.com/jyygithub/leetcode/blob/main/problems/0036.valid-sudoku.md)
