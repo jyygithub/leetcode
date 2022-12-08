@@ -47,5 +47,6 @@
 - [0029.Divide Two Integers](https://github.com/jyygithub/leetcode/blob/main/problems/0029.divide-two-integers.md)
 - [0031.Next Permutation](https://github.com/jyygithub/leetcode/blob/main/problems/0031.next-permutation.md)
 - [0033.Search in Rotated Sorted Array](https://github.com/jyygithub/leetcode/blob/main/problems/0033.search-in-rotated-sorted-array.md)
+- [0034.Find First and Last Position of Element in Sorted Array](https://github.com/jyygithub/leetcode/blob/main/problems/0034.find-first-and-last-position-of-element-in-sorted-array.md)
 - [0035.Search Insert Position](https://github.com/jyygithub/leetcode/blob/main/problems/0035.search-insert-position.md)
 - [0036.Valid Sudoku](https://github.com/jyygithub/leetcode/blob/main/problems/0036.valid-sudoku.md)
