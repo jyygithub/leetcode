@@ -50,3 +50,4 @@
 - [0034.Find First and Last Position of Element in Sorted Array](https://github.com/jyygithub/leetcode/blob/main/problems/0034.find-first-and-last-position-of-element-in-sorted-array.md)
 - [0035.Search Insert Position](https://github.com/jyygithub/leetcode/blob/main/problems/0035.search-insert-position.md)
 - [0036.Valid Sudoku](https://github.com/jyygithub/leetcode/blob/main/problems/0036.valid-sudoku.md)
+- [0038.Count and Say](https://github.com/jyygithub/leetcode/blob/main/problems/0038.count-and-say.md)
