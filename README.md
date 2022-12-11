@@ -51,4 +51,5 @@
 - [0035.Search Insert Position](https://github.com/jyygithub/leetcode/blob/main/problems/0035.search-insert-position.md)
 - [0036.Valid Sudoku](https://github.com/jyygithub/leetcode/blob/main/problems/0036.valid-sudoku.md)
 - [0038.Count and Say](https://github.com/jyygithub/leetcode/blob/main/problems/0038.count-and-say.md)
+- [0058.Length of Last Word](https://github.com/jyygithub/leetcode/blob/main/problems/0058.length-of-last-word.md)
 - [2486.Append Characters to String to Make Subsequence](https://github.com/jyygithub/leetcode/blob/main/problems/2486.append-characters-to-string-to-make-subsequence.md)
