@@ -55,4 +55,5 @@
 - [0066.Plus One](https://github.com/jyygithub/leetcode/blob/main/problems/0066.plus-one.md)
 - [0067.Add Binary](https://github.com/jyygithub/leetcode/blob/main/problems/0067.add-binary.md)
 - [0069.Sqrt(x)](https://github.com/jyygithub/leetcode/blob/main/problems/0069.sqrtx.md)
+- [0070.Climbing Stairs](https://github.com/jyygithub/leetcode/blob/main/problems/0070.climbing-stairs.md)
 - [2486.Append Characters to String to Make Subsequence](https://github.com/jyygithub/leetcode/blob/main/problems/2486.append-characters-to-string-to-make-subsequence.md)
