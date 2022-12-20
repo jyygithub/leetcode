@@ -60,4 +60,5 @@
 - [0088.Merge Sorted Array](https://github.com/jyygithub/leetcode/blob/main/problems/0088.merge-sorted-array.md)
 - [0094.Binary Tree Inorder Traversal](https://github.com/jyygithub/leetcode/blob/main/problems/0094.binary-tree-inorder-traversal.md)
 - [0100.Same Tree](https://github.com/jyygithub/leetcode/blob/main/problems/0100.same-tree.md)
+- [0101.Symmetric Tree](https://github.com/jyygithub/leetcode/blob/main/problems/0101.symmetric-tree.md)
 - [2486.Append Characters to String to Make Subsequence](https://github.com/jyygithub/leetcode/blob/main/problems/2486.append-characters-to-string-to-make-subsequence.md)
