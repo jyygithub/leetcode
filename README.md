@@ -62,4 +62,5 @@
 - [0100.Same Tree](https://github.com/jyygithub/leetcode/blob/main/problems/0100.same-tree.md)
 - [0101.Symmetric Tree](https://github.com/jyygithub/leetcode/blob/main/problems/0101.symmetric-tree.md)
 - [0104.Maximum Depth of Binary Tree](https://github.com/jyygithub/leetcode/blob/main/problems/0104.maximum-depth-of-binary-tree.md)
+- [0136.Single Number](https://github.com/jyygithub/leetcode/blob/main/problems/0136.single-number.md)
 - [2486.Append Characters to String to Make Subsequence](https://github.com/jyygithub/leetcode/blob/main/problems/2486.append-characters-to-string-to-make-subsequence.md)
