@@ -62,6 +62,7 @@
 - [0083.Remove Duplicates from Sorted List](https://github.com/jyygithub/leetcode/blob/main/problems/0083.remove-duplicates-from-sorted-list.md)
 - [0088.Merge Sorted Array](https://github.com/jyygithub/leetcode/blob/main/problems/0088.merge-sorted-array.md)
 - [0094.Binary Tree Inorder Traversal](https://github.com/jyygithub/leetcode/blob/main/problems/0094.binary-tree-inorder-traversal.md)
+- [0095.Unique Binary Search Trees II](https://github.com/jyygithub/leetcode/blob/main/problems/0095.unique-binary-search-trees-ii.md)
 - [0100.Same Tree](https://github.com/jyygithub/leetcode/blob/main/problems/0100.same-tree.md)
 - [0101.Symmetric Tree](https://github.com/jyygithub/leetcode/blob/main/problems/0101.symmetric-tree.md)
 - [0104.Maximum Depth of Binary Tree](https://github.com/jyygithub/leetcode/blob/main/problems/0104.maximum-depth-of-binary-tree.md)
