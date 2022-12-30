@@ -54,6 +54,7 @@
 - [0038.Count and Say](https://github.com/jyygithub/leetcode/blob/main/problems/0038.count-and-say.md)
 - [0039.Combination Sum](https://github.com/jyygithub/leetcode/blob/main/problems/0039.combination-sum.md)
 - [0040.Combination Sum II](https://github.com/jyygithub/leetcode/blob/main/problems/0040.combination-sum-ii.md)
+- [0045.Jump Game II](https://github.com/jyygithub/leetcode/blob/main/problems/0045.jump-game-ii.md)
 - [0058.Length of Last Word](https://github.com/jyygithub/leetcode/blob/main/problems/0058.length-of-last-word.md)
 - [0066.Plus One](https://github.com/jyygithub/leetcode/blob/main/problems/0066.plus-one.md)
 - [0067.Add Binary](https://github.com/jyygithub/leetcode/blob/main/problems/0067.add-binary.md)
