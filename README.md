@@ -72,4 +72,5 @@
 - [0136.Single Number](https://github.com/jyygithub/leetcode/blob/main/problems/0136.single-number.md)
 - [0141.Linked List Cycle](https://github.com/jyygithub/leetcode/blob/main/problems/0141.linked-list-cycle.md)
 - [0142.Linked List Cycle II](https://github.com/jyygithub/leetcode/blob/main/problems/0142.linked-list-cycle-ii.md)
+- [0144.Binary Tree Preorder Traversal](https://github.com/jyygithub/leetcode/blob/main/problems/0144.binary-tree-preorder-traversal.md)
 - [2486.Append Characters to String to Make Subsequence](https://github.com/jyygithub/leetcode/blob/main/problems/2486.append-characters-to-string-to-make-subsequence.md)
