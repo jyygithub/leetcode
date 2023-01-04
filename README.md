@@ -54,6 +54,7 @@
 - [0038.Count and Say](https://github.com/jyygithub/leetcode/blob/main/problems/0038.count-and-say.md)
 - [0039.Combination Sum](https://github.com/jyygithub/leetcode/blob/main/problems/0039.combination-sum.md)
 - [0040.Combination Sum II](https://github.com/jyygithub/leetcode/blob/main/problems/0040.combination-sum-ii.md)
+- [0043.Multiply Strings](https://github.com/jyygithub/leetcode/blob/main/problems/0043.multiply-strings.md)
 - [0045.Jump Game II](https://github.com/jyygithub/leetcode/blob/main/problems/0045.jump-game-ii.md)
 - [0046.Permutations](https://github.com/jyygithub/leetcode/blob/main/problems/0046.permutations.md)
 - [0047.Permutations II](https://github.com/jyygithub/leetcode/blob/main/problems/0047.permutations-ii.md)
