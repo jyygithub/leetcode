@@ -77,6 +77,7 @@
 - [0103.Binary Tree Zigzag Level Order Traversal](https://github.com/jyygithub/leetcode/blob/main/problems/0103.binary-tree-zigzag-level-order-traversal.md)
 - [0104.Maximum Depth of Binary Tree](https://github.com/jyygithub/leetcode/blob/main/problems/0104.maximum-depth-of-binary-tree.md)
 - [0105.Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/jyygithub/leetcode/blob/main/problems/0105.construct-binary-tree-from-preorder-and-inorder-traversal.md)
+- [0106.Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/jyygithub/leetcode/blob/main/problems/0106.construct-binary-tree-from-inorder-and-postorder-traversal.md)
 - [0118.Pascal's Triangle](https://github.com/jyygithub/leetcode/blob/main/problems/0118.pascals-triangle.md)
 - [0119.Pascal's Triangle II](https://github.com/jyygithub/leetcode/blob/main/problems/0119.pascals-triangle-ii.md)
 - [0136.Single Number](https://github.com/jyygithub/leetcode/blob/main/problems/0136.single-number.md)
