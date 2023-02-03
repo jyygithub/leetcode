@@ -89,6 +89,7 @@
 - [0114.Flatten Binary Tree to Linked List](https://github.com/jyygithub/leetcode/blob/main/problems/0114.flatten-binary-tree-to-linked-list.md)
 - [0118.Pascal's Triangle](https://github.com/jyygithub/leetcode/blob/main/problems/0118.pascals-triangle.md)
 - [0119.Pascal's Triangle II](https://github.com/jyygithub/leetcode/blob/main/problems/0119.pascals-triangle-ii.md)
+- [0125.Valid Palindrome](https://github.com/jyygithub/leetcode/blob/main/problems/0125.valid-palindrome.md)
 - [0136.Single Number](https://github.com/jyygithub/leetcode/blob/main/problems/0136.single-number.md)
 - [0141.Linked List Cycle](https://github.com/jyygithub/leetcode/blob/main/problems/0141.linked-list-cycle.md)
 - [0142.Linked List Cycle II](https://github.com/jyygithub/leetcode/blob/main/problems/0142.linked-list-cycle-ii.md)
