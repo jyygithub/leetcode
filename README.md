@@ -90,6 +90,7 @@
 - [0118.Pascal's Triangle](https://github.com/jyygithub/leetcode/blob/main/problems/0118.pascals-triangle.md)
 - [0119.Pascal's Triangle II](https://github.com/jyygithub/leetcode/blob/main/problems/0119.pascals-triangle-ii.md)
 - [0120.Triangle](https://github.com/jyygithub/leetcode/blob/main/problems/0120.triangle.md)
+- [0121.Best Time to Buy and Sell Stock](https://github.com/jyygithub/leetcode/blob/main/problems/0121.best-time-to-buy-and-sell-stock.md)
 - [0125.Valid Palindrome](https://github.com/jyygithub/leetcode/blob/main/problems/0125.valid-palindrome.md)
 - [0136.Single Number](https://github.com/jyygithub/leetcode/blob/main/problems/0136.single-number.md)
 - [0137.Single Number II](https://github.com/jyygithub/leetcode/blob/main/problems/0137.single-number-ii.md)
