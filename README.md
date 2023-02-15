@@ -62,6 +62,7 @@
 - [0049.Group Anagrams](https://github.com/jyygithub/leetcode/blob/main/problems/0049.group-anagrams.md)
 - [0053.Maximum Subarray](https://github.com/jyygithub/leetcode/blob/main/problems/0053.maximum-subarray.md)
 - [0054.Spiral Matrix](https://github.com/jyygithub/leetcode/blob/main/problems/0054.spiral-matrix.md)
+- [0055.Jump Game](https://github.com/jyygithub/leetcode/blob/main/problems/0055.jump-game.md)
 - [0058.Length of Last Word](https://github.com/jyygithub/leetcode/blob/main/problems/0058.length-of-last-word.md)
 - [0066.Plus One](https://github.com/jyygithub/leetcode/blob/main/problems/0066.plus-one.md)
 - [0067.Add Binary](https://github.com/jyygithub/leetcode/blob/main/problems/0067.add-binary.md)
