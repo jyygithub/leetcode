@@ -60,6 +60,7 @@
 - [0047.Permutations II](https://github.com/jyygithub/leetcode/blob/main/problems/0047.permutations-ii.md)
 - [0048.Rotate Image](https://github.com/jyygithub/leetcode/blob/main/problems/0048.rotate-image.md)
 - [0049.Group Anagrams](https://github.com/jyygithub/leetcode/blob/main/problems/0049.group-anagrams.md)
+- [0050.Pow(x, n)](https://github.com/jyygithub/leetcode/blob/main/problems/0050.powx-n.md)
 - [0053.Maximum Subarray](https://github.com/jyygithub/leetcode/blob/main/problems/0053.maximum-subarray.md)
 - [0054.Spiral Matrix](https://github.com/jyygithub/leetcode/blob/main/problems/0054.spiral-matrix.md)
 - [0055.Jump Game](https://github.com/jyygithub/leetcode/blob/main/problems/0055.jump-game.md)
