@@ -107,4 +107,5 @@
 - [0165.Compare Version Numbers](https://github.com/jyygithub/leetcode/blob/main/problems/0165.compare-version-numbers.md)
 - [0175.Combine Two Tables](https://github.com/jyygithub/leetcode/blob/main/problems/0175.combine-two-tables.md)
 - [0176.Second Highest Salary](https://github.com/jyygithub/leetcode/blob/main/problems/0176.second-highest-salary.md)
+- [0217.Contains Duplicate](https://github.com/jyygithub/leetcode/blob/main/problems/0217.contains-duplicate.md)
 - [2486.Append Characters to String to Make Subsequence](https://github.com/jyygithub/leetcode/blob/main/problems/2486.append-characters-to-string-to-make-subsequence.md)
