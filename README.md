@@ -107,6 +107,7 @@
 - [0165.Compare Version Numbers](https://github.com/jyygithub/leetcode/blob/main/problems/0165.compare-version-numbers.md)
 - [0175.Combine Two Tables](https://github.com/jyygithub/leetcode/blob/main/problems/0175.combine-two-tables.md)
 - [0176.Second Highest Salary](https://github.com/jyygithub/leetcode/blob/main/problems/0176.second-highest-salary.md)
+- [0177.Nth Highest Salary](https://github.com/jyygithub/leetcode/blob/main/problems/0177.nth-highest-salary.md)
 - [0217.Contains Duplicate](https://github.com/jyygithub/leetcode/blob/main/problems/0217.contains-duplicate.md)
 - [0231.Power of Two](https://github.com/jyygithub/leetcode/blob/main/problems/0231.power-of-two.md)
 - [0232.Implement Queue using Stacks](https://github.com/jyygithub/leetcode/blob/main/problems/0232.implement-queue-using-stacks.md)
