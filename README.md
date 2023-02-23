@@ -105,6 +105,7 @@
 - [0146.LRU Cache](https://github.com/jyygithub/leetcode/blob/main/problems/0146.lru-cache.md)
 - [0147.Insertion Sort List](https://github.com/jyygithub/leetcode/blob/main/problems/0147.insertion-sort-list.md)
 - [0165.Compare Version Numbers](https://github.com/jyygithub/leetcode/blob/main/problems/0165.compare-version-numbers.md)
+- [0166.Fraction to Recurring Decimal](https://github.com/jyygithub/leetcode/blob/main/problems/0166.fraction-to-recurring-decimal.md)
 - [0175.Combine Two Tables](https://github.com/jyygithub/leetcode/blob/main/problems/0175.combine-two-tables.md)
 - [0176.Second Highest Salary](https://github.com/jyygithub/leetcode/blob/main/problems/0176.second-highest-salary.md)
 - [0177.Nth Highest Salary](https://github.com/jyygithub/leetcode/blob/main/problems/0177.nth-highest-salary.md)
