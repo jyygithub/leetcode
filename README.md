@@ -109,6 +109,7 @@
 - [0175.Combine Two Tables](https://github.com/jyygithub/leetcode/blob/main/problems/0175.combine-two-tables.md)
 - [0176.Second Highest Salary](https://github.com/jyygithub/leetcode/blob/main/problems/0176.second-highest-salary.md)
 - [0177.Nth Highest Salary](https://github.com/jyygithub/leetcode/blob/main/problems/0177.nth-highest-salary.md)
+- [0196.Delete Duplicate Emails](https://github.com/jyygithub/leetcode/blob/main/problems/0196.delete-duplicate-emails.md)
 - [0202.Happy Number](https://github.com/jyygithub/leetcode/blob/main/problems/0202.happy-number.md)
 - [0203.Remove Linked List Elements](https://github.com/jyygithub/leetcode/blob/main/problems/0203.remove-linked-list-elements.md)
 - [0217.Contains Duplicate](https://github.com/jyygithub/leetcode/blob/main/problems/0217.contains-duplicate.md)
