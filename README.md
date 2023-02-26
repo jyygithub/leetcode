@@ -108,6 +108,7 @@
 - [0165.Compare Version Numbers](https://github.com/jyygithub/leetcode/blob/main/problems/0165.compare-version-numbers.md)
 - [0166.Fraction to Recurring Decimal](https://github.com/jyygithub/leetcode/blob/main/problems/0166.fraction-to-recurring-decimal.md)
 - [0171.Excel Sheet Column Number](https://github.com/jyygithub/leetcode/blob/main/problems/0171.excel-sheet-column-number.md)
+- [0172.Factorial Trailing Zeroes](https://github.com/jyygithub/leetcode/blob/main/problems/0172.factorial-trailing-zeroes.md)
 - [0175.Combine Two Tables](https://github.com/jyygithub/leetcode/blob/main/problems/0175.combine-two-tables.md)
 - [0176.Second Highest Salary](https://github.com/jyygithub/leetcode/blob/main/problems/0176.second-highest-salary.md)
 - [0177.Nth Highest Salary](https://github.com/jyygithub/leetcode/blob/main/problems/0177.nth-highest-salary.md)
