@@ -117,6 +117,7 @@
 - [0202.Happy Number](https://github.com/jyygithub/leetcode/blob/main/problems/0202.happy-number.md)
 - [0203.Remove Linked List Elements](https://github.com/jyygithub/leetcode/blob/main/problems/0203.remove-linked-list-elements.md)
 - [0204.Count Primes](https://github.com/jyygithub/leetcode/blob/main/problems/0204.count-primes.md)
+- [0205.Isomorphic Strings](https://github.com/jyygithub/leetcode/blob/main/problems/0205.isomorphic-strings.md)
 - [0217.Contains Duplicate](https://github.com/jyygithub/leetcode/blob/main/problems/0217.contains-duplicate.md)
 - [0231.Power of Two](https://github.com/jyygithub/leetcode/blob/main/problems/0231.power-of-two.md)
 - [0232.Implement Queue using Stacks](https://github.com/jyygithub/leetcode/blob/main/problems/0232.implement-queue-using-stacks.md)
