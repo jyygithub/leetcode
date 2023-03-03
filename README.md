@@ -121,4 +121,5 @@
 - [0217.Contains Duplicate](https://github.com/jyygithub/leetcode/blob/main/problems/0217.contains-duplicate.md)
 - [0231.Power of Two](https://github.com/jyygithub/leetcode/blob/main/problems/0231.power-of-two.md)
 - [0232.Implement Queue using Stacks](https://github.com/jyygithub/leetcode/blob/main/problems/0232.implement-queue-using-stacks.md)
+- [0257.Binary Tree Paths](https://github.com/jyygithub/leetcode/blob/main/problems/0257.binary-tree-paths.md)
 - [2486.Append Characters to String to Make Subsequence](https://github.com/jyygithub/leetcode/blob/main/problems/2486.append-characters-to-string-to-make-subsequence.md)
