@@ -120,6 +120,7 @@
 - [0205.Isomorphic Strings](https://github.com/jyygithub/leetcode/blob/main/problems/0205.isomorphic-strings.md)
 - [0206.Reverse Linked List](https://github.com/jyygithub/leetcode/blob/main/problems/0206.reverse-linked-list.md)
 - [0207.Course Schedule](https://github.com/jyygithub/leetcode/blob/main/problems/0207.course-schedule.md)
+- [0208.Implement Trie (Prefix Tree)](https://github.com/jyygithub/leetcode/blob/main/problems/0208.implement-trie-prefix-tree.md)
 - [0217.Contains Duplicate](https://github.com/jyygithub/leetcode/blob/main/problems/0217.contains-duplicate.md)
 - [0231.Power of Two](https://github.com/jyygithub/leetcode/blob/main/problems/0231.power-of-two.md)
 - [0232.Implement Queue using Stacks](https://github.com/jyygithub/leetcode/blob/main/problems/0232.implement-queue-using-stacks.md)
