@@ -128,4 +128,5 @@
 - [0257.Binary Tree Paths](https://github.com/jyygithub/leetcode/blob/main/problems/0257.binary-tree-paths.md)
 - [0258.Add Digits](https://github.com/jyygithub/leetcode/blob/main/problems/0258.add-digits.md)
 - [0263.Ugly Number](https://github.com/jyygithub/leetcode/blob/main/problems/0263.ugly-number.md)
+- [0278.First Bad Version](https://github.com/jyygithub/leetcode/blob/main/problems/0278.first-bad-version.md)
 - [2486.Append Characters to String to Make Subsequence](https://github.com/jyygithub/leetcode/blob/main/problems/2486.append-characters-to-string-to-make-subsequence.md)
